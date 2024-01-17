@@ -1,1 +1,1 @@
-Ongoing NYC real estate project.
+NYC real estate analysis
